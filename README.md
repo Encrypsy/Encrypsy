@@ -2,17 +2,22 @@
 
 ![Header](img/github-header-image%20(3).png)
 
-## 💻 Tools that I use:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+## 👯‍♀️ My besties:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,git,github)](https://skillicons.dev)
 <br>
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,python,django,visualstudio,vscode)](https://skillicons.dev)
+<br><br>
+
+## 🙌 Thanks to: 
+![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
+<br>
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) 
+
+<br>
 
 ## 🔥 Streak
 ![](https://nirzak-streak-stats.vercel.app/?user=Encrypsy&theme=dark&hide_border=false)
-
-## ⌨️ Progamming Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Encrypsy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -35,5 +40,8 @@
 Lagi nyusun kumpulan project website-ku di repo [`project-website`](https://github.com/Encrypsy/project-website)  
 Isinya hasil belajar, eksperimen, dan kadang ide random yang akhirnya jadi sesuatu 😎
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Encrypsy/Encrypsy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Encrypsy/Encrypsy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Encrypsy/Encrypsy/output/pacman-contribution-graph.svg">
+</picture>
