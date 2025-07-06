@@ -1,6 +1,6 @@
 # Welcome to My Github Profile ☕️
 
-![Header](img/github-header-image%20(3).png)
+![Header](img/github-header-image%20(7).png)
 
 ## 👯‍♀️ My besties:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,git,github)](https://skillicons.dev)
