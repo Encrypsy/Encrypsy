@@ -1,6 +1,6 @@
 # Welcome to My Github Profile ☕️
 
-![Malya Maritza](img/github-header-image.png)
+![Header](img/github-header-image%20(3).png)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Encrypsy&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Encrypsy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
