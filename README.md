@@ -40,6 +40,8 @@
 Lagi nyusun kumpulan project website-ku di repo [`project-website`](https://github.com/Encrypsy/project-website)  
 Isinya hasil belajar, eksperimen, dan kadang ide random yang akhirnya jadi sesuatu 😎
 
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Encrypsy/Encrypsy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Encrypsy/Encrypsy/output/pacman-contribution-graph.svg">
