@@ -1,4 +1,4 @@
-# Welcome to My Github Profile ☕️
+# Welcome to My Github Profile 👩🏻‍💻☕️
 
 ![Header](img/github-header-image%20(7).png)
 
@@ -27,15 +27,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### ✨ About Me
-- Gak harus jago dari awal — yang penting konsisten dan terus belajar.
-- Ngoding sambil nyalain playlist favorit itu mood booster terbaik. 🎧
-
-### 🔍 Fokus Sekarang
-- Ngembangin skill HTML, CSS, JavaScript
-- Lagi belajar React & Tailwind biar makin fleksibel
-- Mulai pelan-pelan kenalan sama backend juga
-
 ### 🧠 Mini Projects
 Lagi nyusun kumpulan project website-ku di repo [`project-website`](https://github.com/Encrypsy/project-website)  
 Isinya hasil belajar, eksperimen, dan kadang ide random yang akhirnya jadi sesuatu 😎
@@ -47,3 +38,4 @@ Isinya hasil belajar, eksperimen, dan kadang ide random yang akhirnya jadi sesua
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Encrypsy/Encrypsy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Encrypsy/Encrypsy/output/pacman-contribution-graph.svg">
 </picture>
+
