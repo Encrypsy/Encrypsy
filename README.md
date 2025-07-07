@@ -17,7 +17,7 @@
 <br>
 
 ## 🔥 Streak
-![](https://nirzak-streak-stats.vercel.app/?user=Encrypsy&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Encrypsy&theme=dark&hide_border=false) 
 
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -25,11 +25,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Encrypsy&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🧠 Mini Projects
-Lagi nyusun kumpulan project website-ku di repo [`project-website`](https://github.com/Encrypsy/project-website)  
-Isinya hasil belajar, eksperimen, dan kadang ide random yang akhirnya jadi sesuatu 😎
+### 🧠 Currenlty Working In
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=project-website&show_owner=true&theme=onedark)](https://github.com/Encrypsy/project-website)
 
 <br><br>
 
