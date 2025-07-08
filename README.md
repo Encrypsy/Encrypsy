@@ -26,7 +26,7 @@
 [![](https://visitcount.itsvg.in/api?id=Encrypsy&icon=7&color=0)](https://visitcount.itsvg.in)
 
 
-### 🧠 Currenlty Working In
+### 🧠 Currently Working In
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=project-website&show_owner=true&theme=dark)](https://github.com/Encrypsy/project-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=latihan-php&show_owner=true&theme=dark)](https://github.com/Encrypsy/latihan-php)
 
