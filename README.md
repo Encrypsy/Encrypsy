@@ -28,6 +28,7 @@
 
 ### 🧠 Currenlty Working In
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=project-website&show_owner=true&theme=dark)](https://github.com/Encrypsy/project-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=latihan-php&show_owner=true&theme=dark)](https://github.com/Encrypsy/latihan-php)
 
 <br><br>
 
