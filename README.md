@@ -2,13 +2,16 @@
 
 ![Header](img/github-header-image%20(7).png)
 
-## 👯‍♀️ My besties:
+## Language that I use to program with
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Encrypsy&layout=donut&theme=dark)](https://github.com/Encrypsy/github-readme-stats)
+
+## 🛠️Tools that helps me a lot
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,git,github)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,python,django,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,python,visualstudio,vscode)](https://skillicons.dev)
 <br><br>
 
-## 🙌 Thanks to: 
+## 🙌 Thanks to
 ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
 <br>
@@ -27,7 +30,7 @@
 
 
 ### 🧠 Currenlty Working In
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=project-website&show_owner=true&theme=onedark)](https://github.com/Encrypsy/project-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=project-website&show_owner=true&theme=dark)](https://github.com/Encrypsy/project-website)
 
 <br><br>
 
