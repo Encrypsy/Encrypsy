@@ -2,7 +2,6 @@
 
 ![Header](img/github-header-image%20(7).png)
 
-## Language that I use to program with
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Encrypsy&layout=donut&theme=dark)](https://github.com/Encrypsy/github-readme-stats)
 
 ## 🛠️Alat tempur
