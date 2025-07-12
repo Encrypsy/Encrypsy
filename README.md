@@ -2,10 +2,8 @@
 
 ![Header](img/github-header-image%20(7).png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Encrypsy&layout=donut&theme=dark)](https://github.com/Encrypsy/github-readme-stats)
-
 ## 🛠️Alat tempur
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,figma,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github,vscode)](https://skillicons.dev)
 <br><br>
 ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
