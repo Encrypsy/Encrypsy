@@ -11,7 +11,10 @@
 <br>
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) 
 
+### 🧠 Currently Working In
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=MYVerse-site&show_owner=true&theme=dark)](https://github.com/Encrypsy/MYVerse-site)
 <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=project-website&show_owner=true&theme=dark)](https://github.com/Encrypsy/project-website)
 
 ## 🔥 Streak
 ![](https://nirzak-streak-stats.vercel.app/?user=Encrypsy&theme=dark&hide_border=false) 
@@ -23,8 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=Encrypsy&icon=7&color=0)](https://visitcount.itsvg.in)
 
 
-### 🧠 Currently Working In
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=project-website&show_owner=true&theme=dark)](https://github.com/Encrypsy/project-website)
 
 
 <br><br>
