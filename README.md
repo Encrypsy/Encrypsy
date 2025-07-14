@@ -2,7 +2,7 @@
 
 ![Header](img/github-header-image%20(7).png)
 
-## 🛠️Alat tempur
+## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,figma,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github,vscode)](https://skillicons.dev)
 <br><br>
