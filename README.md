@@ -1,6 +1,6 @@
 # Welcome to My Github Profile 👩🏻‍💻☕️
 
-![Header](img/banner.png)
+![Header](img/bannerlagi.png)
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,figma,react)](https://skillicons.dev)
