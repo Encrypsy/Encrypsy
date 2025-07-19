@@ -3,9 +3,9 @@
 ![Header](img/bannerlagi.png)
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,figma,react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,react,tailwind,bootstrap,vite,nodejs,npm)](https://skillicons.dev)
 <br><br>
+## 😁 Thanks to
 ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
 <br>
