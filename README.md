@@ -17,7 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Encrypsy&theme=light&hide_border=false) 
 
 ### 🧠 Currently Working In
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoraaAi&repo=Learnity&show_owner=true&theme=light)](https://github.com/SoraaAi/Learnity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=LMS-Mentora&show_owner=true&theme=light)](https://github.com/SoraaAi/Learnity)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Encrypsy&icon=7&color=0)](https://visitcount.itsvg.in)
