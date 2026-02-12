@@ -3,7 +3,7 @@
 ![Header](img/bannerlagi.png)
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,django,postman,flutter,react,tailwind,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,laravel,django,postman,flutter,react,tailwind,mysql&theme=light)](https://skillicons.dev)
 <br><br>
 ## 😁 Thanks to
 ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
