@@ -11,11 +11,7 @@
 <br>
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) 
 
-<br>
 
-
-### 🧠 Currently Working In
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=ScribeAI-project&show_owner=true&theme=light)](https://github.com/Encrypsy/ScribeAI-project)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Encrypsy&icon=7&color=0)](https://visitcount.itsvg.in)
