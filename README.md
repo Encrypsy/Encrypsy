@@ -13,11 +13,9 @@
 
 <br>
 
-## 🔥 Streak
-![](https://nirzak-streak-stats.vercel.app/?user=Encrypsy&theme=light&hide_border=True) 
 
 ### 🧠 Currently Working In
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=ScribeAI-project&show_owner=true&theme=light)](https://github.com/Encrypsy/LMS-Mentora)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Encrypsy&repo=ScribeAI-project&show_owner=true&theme=light)](https://github.com/Encrypsy/ScribeAI-project)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Encrypsy&icon=7&color=0)](https://visitcount.itsvg.in)
